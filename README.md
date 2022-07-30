@@ -33,3 +33,10 @@ I learned the history of HTML5, I used everything else I knew before in practice
 ![](task_html_css_intro/Screenshot%20from%202022-07-29%2009-12-11.png)
 ![](task_html_css_intro/Screenshot%20from%202022-07-29%2009-12-40.png)
 ![](task_html_css_intro/Screenshot%20from%202022-07-29%2022-29-37.png)
+
+---
+
+## Responsive Web Design
+I was already familiar with the basics of adaptive, flexbox and grid layout and I constantly use them in practice.
+![](task_responsive_web_design/Screenshot%20from%202022-07-30%2011-48-15.png)
+![](task_responsive_web_design/Screenshot%20from%202022-07-30%2016-15-19.png)
