@@ -40,3 +40,8 @@ I learned the history of HTML5, I used everything else I knew before in practice
 I was already familiar with the basics of adaptive, flexbox and grid layout and I constantly use them in practice.
 ![](task_responsive_web_design/Screenshot%20from%202022-07-30%2011-48-15.png)
 ![](task_responsive_web_design/Screenshot%20from%202022-07-30%2016-15-19.png)
+
+---
+
+## HTML & CSS Practice
+[POPUP DEMO](https://konstantinokhorzin.github.io/popup-html-css/)
