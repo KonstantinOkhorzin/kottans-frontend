@@ -45,3 +45,16 @@ I was already familiar with the basics of adaptive, flexbox and grid layout and 
 
 ## HTML & CSS Practice
 [POPUP DEMO](https://konstantinokhorzin.github.io/popup-html-css/)
+
+---
+
+## JS Basics
+I updated my skills of basic JavaScript and ES6 standard, met with algorithms and functional programming, the principles of which I will use in practice.
+![](task_js_basics/Screenshot%20from%202022-08-01%2022-35-59.png)
+![](task_js_basics/Screenshot%20from%202022-08-01%2022-36-42.png)
+![](task_js_basics/Screenshot%20from%202022-08-04%2012-54-33.png)
+![](task_js_basics/Screenshot%20from%202022-08-04%2016-16-06.png)
+![](task_js_basics/Screenshot%20from%202022-08-05%2011-03-15.png)
+![](task_js_basics/Screenshot%20from%202022-08-05%2013-48-05.png)
+![](task_js_basics/Screenshot%20from%202022-08-05%2019-34-48.png)
+![](task_js_basics/Screenshot%20from%202022-08-06%2011-47-11.png)
