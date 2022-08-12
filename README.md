@@ -58,3 +58,10 @@ I updated my skills of basic JavaScript and ES6 standard, met with algorithms an
 ![](task_js_basics/Screenshot%20from%202022-08-05%2013-48-05.png)
 ![](task_js_basics/Screenshot%20from%202022-08-05%2019-34-48.png)
 ![](task_js_basics/Screenshot%20from%202022-08-06%2011-47-11.png)
+
+---
+
+## DOM
+![](task_js_dom/Screenshot%20from%202022-08-07%2018-49-25.png)
+![](task_js_dom/Screenshot%20from%202022-08-07%2018-45-28.png)
+[DEMO](https://konstantinokhorzin.github.io/dom-js/)
