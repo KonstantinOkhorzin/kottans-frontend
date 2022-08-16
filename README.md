@@ -65,3 +65,8 @@ I updated my skills of basic JavaScript and ES6 standard, met with algorithms an
 ![](task_js_dom/Screenshot%20from%202022-08-07%2018-49-25.png)
 ![](task_js_dom/Screenshot%20from%202022-08-07%2018-45-28.png)
 [DEMO](https://konstantinokhorzin.github.io/dom-js/)
+
+---
+## Building a Tiny JS World
+[REPO](https://github.com/KonstantinOkhorzin/a-tiny-JS-world)
+[DEMO](https://konstantinokhorzin.github.io/a-tiny-JS-world/)
