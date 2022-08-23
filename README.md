@@ -70,3 +70,8 @@ I updated my skills of basic JavaScript and ES6 standard, met with algorithms an
 ## Building a Tiny JS World
 [REPO](https://github.com/KonstantinOkhorzin/a-tiny-JS-world)
 [DEMO](https://konstantinokhorzin.github.io/a-tiny-JS-world/)
+
+---
+## Object Oriented JS
+![https://www.codewars.com/users/KonstantinOkhorzin](task_js_oop/Screenshot%20from%202022-08-23%2011-45-46.png)
+[FROGGER-GAME](https://konstantinokhorzin.github.io/frontend-nanodegree-arcade-game/)
