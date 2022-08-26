@@ -248,3 +248,7 @@ I updated my skills of basic JavaScript and ES6 standard, met with algorithms an
 
 [FROGGER-GAME](https://konstantinokhorzin.github.io/frontend-nanodegree-arcade-game/)
 
+---
+## OOP Exercise
+[REPO](https://github.com/KonstantinOkhorzin/a-tiny-JS-world)
+[DEMO](https://konstantinokhorzin.github.io/a-tiny-JS-world/)
