@@ -252,3 +252,7 @@ I updated my skills of basic JavaScript and ES6 standard, met with algorithms an
 ## OOP Exercise
 [REPO](https://github.com/KonstantinOkhorzin/a-tiny-JS-world)
 [DEMO](https://konstantinokhorzin.github.io/a-tiny-JS-world/)
+
+---
+## Memory – Pair Game
+[DEMO](https://konstantinokhorzin.github.io/memory-game/)
